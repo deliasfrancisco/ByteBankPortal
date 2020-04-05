@@ -1,0 +1,6 @@
+C:\Users\ultron\Documents\ByteBankPortal\bin\Debug\ByteBankPortal.exe.config
+C:\Users\ultron\Documents\ByteBankPortal\bin\Debug\ByteBankPortal.exe
+C:\Users\ultron\Documents\ByteBankPortal\bin\Debug\ByteBankPortal.pdb
+C:\Users\ultron\Documents\ByteBankPortal\obj\Debug\ByteBankPortal.csprojAssemblyReference.cache
+C:\Users\ultron\Documents\ByteBankPortal\obj\Debug\ByteBankPortal.exe
+C:\Users\ultron\Documents\ByteBankPortal\obj\Debug\ByteBankPortal.pdb
